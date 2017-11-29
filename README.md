@@ -3,3 +3,4 @@
 3. file11.csv, file22.csv file33.csv contains extracted features data for sitting, stairs descending/ascending, walking respectively.
 4. file44.csv, file55.csv, file 66.csv have the testing data.
 5. acc_python.ipynb is python file for classifying data.
+6. output of the classifier with python code is in file classifier_output.html
